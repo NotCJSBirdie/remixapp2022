@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Carl\\Desktop\\my-remix-app\\app\\routes\\index.tsx?browser", "../../../app/routes/index.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\Carl\\\\Desktop\\\\my-remix-app\\\\app\\\\routes\\\\index.tsx\";", "import { Link } from \"remix\";\n\nexport default function Index() {\n  return (\n    <div className=\"overflow-hidden\">\n      <h1 className=\"text-purple-400 text-4xl font-medium p-16 border-2 border-purple-500\">\n        Welcome to my very First REMIX APP\n      </h1>\n      <h1 className=\"text-blue-400 text-4xl font-bold p-16 border-2 border-purple-500\">\n        IT IS VERY COLORFUL\n      </h1>\n      <Link to=\"/about\" className=\"no-underline bg-transparent\">\n        <button className=\"text-purple-700 no-underline bg-transparent\">\n          About Page!\n        </button>\n      </Link>\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;AAAA;;;ACAA;AAEe,iBAAiB;AAC9B,SACE,oCAAC,OAAD;AAAA,IAAK,WAAU;AAAA,KACb,oCAAC,MAAD;AAAA,IAAI,WAAU;AAAA,KAAuE,uCAGrF,oCAAC,MAAD;AAAA,IAAI,WAAU;AAAA,KAAmE,wBAGjF,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,IAAS,WAAU;AAAA,KAC1B,oCAAC,UAAD;AAAA,IAAQ,WAAU;AAAA,KAA8C;AAAA;",
+  "names": []
+}

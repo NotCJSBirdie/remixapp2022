@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Carl\\Desktop\\my-remix-app\\app\\routes\\about.tsx?browser"],
+  "sourcesContent": ["export * from \"C:\\\\Users\\\\Carl\\\\Desktop\\\\my-remix-app\\\\app\\\\routes\\\\about.tsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}

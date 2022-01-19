@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Carl\\Desktop\\my-remix-app\\app\\routes\\about.tsx?browser", "../../../app/routes/about.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\Carl\\\\Desktop\\\\my-remix-app\\\\app\\\\routes\\\\about.tsx\";", "import React from \"react\";\r\n\r\nconst about = () => {\r\n  return <div></div>;\r\n};\r\n\r\nexport default about;\r\n"],
+  "mappings": ";;;;;;;AAAA;;;ACAA;AAAA,mBAAkB;AAElB,IAAM,QAAQ,MAAM;AAClB,SAAO,mDAAC,OAAD;AAAA;AAGT,IAAO,gBAAQ;",
+  "names": []
+}

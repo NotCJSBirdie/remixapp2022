@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Carl\\Desktop\\my-remix-app\\app\\routes\\about.tsx?browser", "../../../app/routes/about.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\Carl\\\\Desktop\\\\my-remix-app\\\\app\\\\routes\\\\about.tsx\";", "import React from \"react\";\r\nimport { Link } from \"remix\";\r\n\r\nconst about = () => {\r\n  return (\r\n    <div>\r\n      <h1 className=\"text-black text-9xl\">Welcome to the about page!!</h1>\r\n      <Link to=\"/\">\r\n        <h1>Back to Home Page!!</h1>\r\n      </Link>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default about;\r\n"],
+  "mappings": ";;;;;;;;AAAA;;;ACAA;AAAA,mBAAkB;AAGlB,IAAM,QAAQ,MAAM;AAClB,SACE,mDAAC,OAAD,MACE,mDAAC,MAAD;AAAA,IAAI,WAAU;AAAA,KAAsB,gCACpC,mDAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KACP,mDAAC,MAAD,MAAI;AAAA;AAMZ,IAAO,gBAAQ;",
+  "names": []
+}

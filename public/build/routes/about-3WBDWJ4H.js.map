@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Carl\\Desktop\\my-remix-app\\app\\routes\\about.tsx?browser", "../../../app/routes/about.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\Carl\\\\Desktop\\\\my-remix-app\\\\app\\\\routes\\\\about.tsx\";", "import { Link } from \"remix\";\r\n\r\nconst about = () => {\r\n  return (\r\n    <div>\r\n      <h1 className=\"text-purple-900 font-bold text-center p-16 text-5xl border-8 border-purple-800\">\r\n        Welcome to the about page!!\r\n      </h1>\r\n      <h1 className=\"text-purple-900 font-bold text-center p-16 text-5xl border-8 border-purple-800\">\r\n        <Link to=\"/\" className=\"no-underline\">\r\n          <button className=\"text-purple-900 font-bold text-center no-underline bg-transparent font-bold\">\r\n            Back to HOMEPAGE\r\n          </button>\r\n        </Link>\r\n      </h1>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default about;\r\n"],
+  "mappings": ";;;;;;;AAAA;;;ACAA;AAEA,IAAM,QAAQ,MAAM;AAClB,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD;AAAA,IAAI,WAAU;AAAA,KAAiF,gCAG/F,oCAAC,MAAD;AAAA,IAAI,WAAU;AAAA,KACZ,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,IAAI,WAAU;AAAA,KACrB,oCAAC,UAAD;AAAA,IAAQ,WAAU;AAAA,KAA8E;AAAA;AAS1G,IAAO,gBAAQ;",
+  "names": []
+}
